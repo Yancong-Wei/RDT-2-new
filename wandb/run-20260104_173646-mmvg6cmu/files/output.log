@@ -1,0 +1,22 @@
+  0%|                                                                                                                                  | 0/12000 [00:00<?, ?it/s]/home/yancong_wei/miniconda3/envs/rdt2/lib/python3.10/site-packages/torch/utils/checkpoint.py:86: UserWarning: None of the inputs have requires_grad=True. Gradients will be None
+  warnings.warn(
+  4%|████▊                                                                                                                | 494/12000 [29:58<11:38:17,  3.64s/it]
+{'loss': 3.2182, 'grad_norm': 3.015357494354248, 'learning_rate': 4.800000000000001e-06, 'epoch': 0.0}
+{'loss': 3.0988, 'grad_norm': 2.9811179637908936, 'learning_rate': 9.800000000000001e-06, 'epoch': 0.0}
+{'loss': 2.9026, 'grad_norm': 2.532097339630127, 'learning_rate': 1.48e-05, 'epoch': 0.01}
+{'loss': 2.7224, 'grad_norm': 2.255443572998047, 'learning_rate': 1.9800000000000004e-05, 'epoch': 0.01}
+{'loss': 2.6222, 'grad_norm': 2.17663836479187, 'learning_rate': 2.48e-05, 'epoch': 0.01}
+{'loss': 2.5008, 'grad_norm': 2.0541906356811523, 'learning_rate': 2.98e-05, 'epoch': 0.01}
+{'loss': 2.439, 'grad_norm': 1.981179118156433, 'learning_rate': 3.48e-05, 'epoch': 0.01}
+{'loss': 2.3845, 'grad_norm': 1.966416597366333, 'learning_rate': 3.9800000000000005e-05, 'epoch': 0.02}
+{'loss': 2.2727, 'grad_norm': 2.017733097076416, 'learning_rate': 4.4800000000000005e-05, 'epoch': 0.02}
+{'loss': 2.2981, 'grad_norm': 1.8068591356277466, 'learning_rate': 4.9800000000000004e-05, 'epoch': 0.02}
+{'loss': 2.2473, 'grad_norm': 2.1706995964050293, 'learning_rate': 5.4800000000000004e-05, 'epoch': 0.02}
+{'loss': 2.2669, 'grad_norm': 2.1574413776397705, 'learning_rate': 5.9800000000000003e-05, 'epoch': 0.03}
+{'loss': 2.2286, 'grad_norm': 2.0081238746643066, 'learning_rate': 6.48e-05, 'epoch': 0.03}
+{'loss': 2.2139, 'grad_norm': 1.9178211688995361, 'learning_rate': 6.98e-05, 'epoch': 0.03}
+{'loss': 2.1696, 'grad_norm': 1.9762800931930542, 'learning_rate': 7.48e-05, 'epoch': 0.03}
+{'loss': 2.1051, 'grad_norm': 2.1630091667175293, 'learning_rate': 7.98e-05, 'epoch': 0.03}
+{'loss': 2.1452, 'grad_norm': 2.2312510013580322, 'learning_rate': 8.48e-05, 'epoch': 0.04}
+{'loss': 2.1317, 'grad_norm': 2.01749587059021, 'learning_rate': 8.98e-05, 'epoch': 0.04}
+{'loss': 2.1193, 'grad_norm': 2.2241363525390625, 'learning_rate': 9.48e-05, 'epoch': 0.04}

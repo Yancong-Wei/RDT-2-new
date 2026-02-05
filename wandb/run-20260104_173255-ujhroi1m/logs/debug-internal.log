@@ -1,0 +1,6 @@
+{"time":"2026-01-04T17:32:55.36312497+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-01-04T17:32:56.486756945+08:00","level":"INFO","msg":"stream: created new stream","id":"ujhroi1m"}
+{"time":"2026-01-04T17:32:56.487225999+08:00","level":"INFO","msg":"handler: started","stream_id":"ujhroi1m"}
+{"time":"2026-01-04T17:32:56.487332703+08:00","level":"INFO","msg":"stream: started","id":"ujhroi1m"}
+{"time":"2026-01-04T17:32:56.487337024+08:00","level":"INFO","msg":"writer: started","stream_id":"ujhroi1m"}
+{"time":"2026-01-04T17:32:56.487392156+08:00","level":"INFO","msg":"sender: started","stream_id":"ujhroi1m"}

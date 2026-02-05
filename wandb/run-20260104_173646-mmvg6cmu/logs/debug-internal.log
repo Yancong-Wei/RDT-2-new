@@ -1,0 +1,9 @@
+{"time":"2026-01-04T17:36:46.994125193+08:00","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2026-01-04T17:36:47.93587304+08:00","level":"INFO","msg":"stream: created new stream","id":"mmvg6cmu"}
+{"time":"2026-01-04T17:36:47.936073866+08:00","level":"INFO","msg":"stream: started","id":"mmvg6cmu"}
+{"time":"2026-01-04T17:36:47.936149915+08:00","level":"INFO","msg":"handler: started","stream_id":"mmvg6cmu"}
+{"time":"2026-01-04T17:36:47.936177771+08:00","level":"INFO","msg":"writer: started","stream_id":"mmvg6cmu"}
+{"time":"2026-01-04T17:36:47.936193038+08:00","level":"INFO","msg":"sender: started","stream_id":"mmvg6cmu"}
+{"time":"2026-01-04T17:51:19.647153619+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yancow1025-tsinghua-university/huggingface/mmvg6cmu/file_stream\": read tcp 192.168.0.3:38832->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2026-01-04T18:03:09.098485087+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yancow1025-tsinghua-university/huggingface/mmvg6cmu/file_stream\": read tcp 192.168.0.3:52558->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2026-01-04T18:10:27.725475174+08:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/yancow1025-tsinghua-university/huggingface/mmvg6cmu/file_stream\": write tcp 192.168.0.3:42962->35.186.228.49:443: write: broken pipe"}

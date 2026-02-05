@@ -1,0 +1,6 @@
+name: bimanual/ur_example
+type: single  # single: 单数据集训练，multi: 多数据集混合训练
+shards_dir: /home/yancong_wei/RDT2/pretrained_models/example_data/shards # webdataset数据集路径
+kwargs:
+  instruction_path: /home/yancong_wei/RDT2/pretrained_models/example_data/instructions.json     # 指令字典路径
+  normalizer_path: /home/yancong_wei/RDT2/pretrained_models/umi_normalizer_wo_downsample_indentity_rot.pt # 归一化器路径，下载自http://ml.cs.tsinghua.edu.cn/~lingxuan/rdt2/umi_normalizer_wo_downsample_indentity_rot.pt
